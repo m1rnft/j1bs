@@ -1,0 +1,46 @@
+{
+  "name": "Bears Studio #1002",
+  "symbol": "BEARS",
+  "description": "Uniting artists and developers, our NFT collection is dedicated to delivering the best experience for founders. Our mission is to create unique and vibrant digital assets that bring your ideas to life.",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/m1rnft/bs1/main/1001.png",
+  "external_url": "BEARS",
+  "edition": 1001,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chew "
+    },
+    {
+      "trait_type": "Cap",
+      "value": "Ship "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/m1rnft/bs1/main/1001.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AcUQiceFBBJtyVasd157SrDkJp2qje8ihypzi41Nma1U",
+        "share": 100
+      }
+    ]
+  }
+}
